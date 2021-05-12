@@ -1,0 +1,2 @@
+导航栏橙色  #FFA500
+tabBar默认颜色  #bfbfbf
